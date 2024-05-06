@@ -1,5 +1,7 @@
 {
-    "cSpell.words": [
-        "isthishumandown"
-    ]
+	"cSpell.words": ["isthishumandown", "Jappleseed"],
+	"svelte.enable-ts-plugin": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"editor.detectIndentation": false
 }
